@@ -9,4 +9,4 @@ Prerequisite Tool are as follow:
  <br/>
  2) Microsoft Excel - To open and/or see the data which are in .xlsx/.csv format.
 <br/>
- 3) Acrobat PDF Reader - To open and read the Project detailed instruction from Project Detail .pdf and Brief report on Visualizations insights from DataDashboard Visualisation                           Report with link.pdf
+ 3) Acrobat PDF Reader - To open and read the Project detailed instruction from Project Detail .pdf and Brief report on Visualizations insights from Data Dashboard Visualisation                           Report with link.pdf
